@@ -723,44 +723,6 @@ oder Claude einfügen.
 
 ---
 
-### LiaScript & Text-to-Speech
-
-                          --{{0}}--
-Das hier ist bereits ein LiaScript-Kurs. Dieser Text wird vorgelesen, wenn ihr den
-Play-Button drückt. Das macht LiaScript ideal für barrierefreie OER — ohne
-Zusatz-Software, direkt im Browser.
-
-LiaScript ist ein **kostenloser Open-Source Markdown-Dialekt**, der aus einer einfachen `.md`-Datei einen vollständigen interaktiven Kurs erzeugt:
-
-- 🎧 **Text-to-Speech** mit Sprecher:innen-Annotationen
-- ❓ **Native Quizze** (Single/Multiple Choice, Freitext)
-- 💻 **Ausführbarer Code** direkt im Kurs
-- 🌐 **Kein Server** — läuft komplett im Browser
-
-**TTS-Syntax:**
-
-```markdown
---{{0}}--
-Dieser Text wird beim Öffnen der Folie gesprochen.
-
---{{1}}--
-Das hier wird nach dem ersten Klick vorgelesen.
-
-Inhalt, der auf Schritt 1 eingeblendet wird.
-```
-
-                          {{1}}
-**Live-Demo** — Drücke den ▶-Button oben rechts, um diesen Abschnitt vorlesen zu lassen:
-
-> *„LiaScript verbindet die Einfachheit von Markdown mit der Interaktivität einer Lernplattform —
-> und läuft dabei vollständig offline, ohne Login, ohne Server."*
-
-                          --{{1}}--
-LiaScript verbindet die Einfachheit von Markdown mit der Interaktivität einer
-Lernplattform und läuft dabei vollständig offline, ohne Login, ohne Server.
-Das ist das Prinzip der Offenen Bildungsressourcen — OER — in Reinform.
-
----
 
 ## Block 4: Datenschutz & Local AI
 
@@ -855,7 +817,7 @@ wenn man ihnen die richtige Struktur gibt.
 | **Aktion** | Antwortet auf Fragen | Plant und handelt autonom |
 | **Schritte** | Ein Schritt | Mehrere Schritte, sequenziell |
 | **Werkzeuge** | Nur Textausgabe | Web-Suche, Code, APIs, Dateien |
-| **Beispiel** | „Erkläre mir X" | „Erstelle einen vollständigen LiaScript-Kurs zu X" |
+| **Beispiel** | Erkläre mir X | Erstelle einen vollständigen LiaScript-Kurs zu X |
 | **Kontrolle** | 100% menschlich | Teilautonom, Mensch überwacht |
 
                           {{1}}
