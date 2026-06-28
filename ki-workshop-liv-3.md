@@ -340,7 +340,7 @@ Das Modell kann nicht unterscheiden, ob etwas wahr ist — es berechnet
 nur die wahrscheinlichste Fortsetzung. Quellen immer prüfen!
 ***
 
-**Frage 4:** Was macht einen KI-Agenten von einem Chatbot unterschiedlich?
+**Frage 4:** Was unterscheidet einen KI-Agenten von einem Chatbot?
 
 [( )] Agenten antworten schneller.
 [( )] Agenten kennen keine Grenzen.
